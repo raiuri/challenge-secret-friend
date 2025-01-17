@@ -1,6 +1,7 @@
 # 🎉 Jogo de Amigo Secreto
 
 Uma aplicação simples e divertida feita para sortear amigos secretos de forma prática e intuitiva!
+DEMO: https://raiuri.github.io/challenge-secret-friend/
 
 ## 📜 Descrição
 
